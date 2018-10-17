@@ -1,0 +1,18 @@
+{
+    "values": [
+        {
+            "app_key": "some_app_key",
+            "push_id": "some_push_id",
+            "send_id": "some_send_id",
+            "opt_in": true,
+            "target": {
+                "address": "some_address",
+                "channel_id": "some_channel_id",
+                "identifiers": {}
+            },
+            "payload": {
+                "alert": "HelloUA"
+            }
+        }
+    ]
+}
